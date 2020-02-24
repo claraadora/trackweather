@@ -1,0 +1,9 @@
+th,
+td {
+  padding: 20px;
+  text-align: center;
+}
+
+.bottom-row {
+  font-weight: bold;
+}

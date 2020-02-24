@@ -1,0 +1,17 @@
+body {
+  background-color: rgb(169, 216, 255);
+  color: white;
+  padding: 40px;
+  font-family: Arial;
+  text-align: center;
+  max-width: width 100%;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-around;
+  width: 100%;
+}
